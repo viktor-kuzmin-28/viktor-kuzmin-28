@@ -13,5 +13,5 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-Numpy, Matplotlib, SciPy, Scikit-learn, CatBoost
+![catboost-spark-aggregate Scala version support](https://index.scala-lang.org/catboost/catboost/catboost-spark-aggregate/latest.svg)
 
