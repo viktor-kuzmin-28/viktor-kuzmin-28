@@ -6,6 +6,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/viktorgera)
 
 #### Языки и инструменты:
-![Python](https://img.shields.io/pypi/pyversions/:packageName)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, CatBoost, LightGBM
 
